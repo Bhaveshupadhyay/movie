@@ -1,4 +1,4 @@
 {
-  "app_version": "1.0.2",
+  "app_version": "1.0.0",
   "download_url": "https://dizmo.fun/app/dmovies.apk"
 }
